@@ -1,0 +1,5 @@
+gccPath : /home/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-gcc
+g++Path : /home/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-g++
+ip : 10.11.47.33
+foldPath : /path/to/your/dir
+author : your name
