@@ -73,7 +73,7 @@
 ### models
 
 * 存放模型文件
-* 由于github文件大小限制，从[百度云盘](链接：https://pan.baidu.com/s/18V2-is9FtodHxA0PUb45fQ)下载，提取码：mgmr
+* 由于github文件大小限制，从[百度云盘](https://pan.baidu.com/s/18V2-is9FtodHxA0PUb45fQ)下载，提取码：mgmr
 
 ### tools
 
