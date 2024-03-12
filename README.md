@@ -62,7 +62,7 @@
   * *bboxQueue.h* 为检测框队列设计头文件，已弃用
   * *config.h* 为全局参数定义和全局log函数定义文件
     * 可以修改的变量包含：*CLASSIFICATION_MAX_TARGET_NUM*
-    * 针对宏定义*#if 1 #else ...*，修改1为0可以关闭log信息，反之打开log，方便调试
+    * 针对宏定义#if 1 #else ...，修改1为0可以关闭log信息，反之打开log，方便调试
   * *inferMath.h*&*inferMath.cpp* 为推理代码中数值计算相关函数存放位置
   * *inferUtils.h*&*inferUtils.cpp* 为推理代码中预处理、推理以及后处理函数存放位置
 
@@ -98,7 +98,7 @@
 
 * 下载并安装[交叉编译链](##算法基础说明)
 
-* 修改$./scripts/config.txt$后执行[$./scripts/quickmake.sh$](###scripts)脚本
+* 修改./scripts/config.txt后执行[./scripts/quickmake.sh](###scripts)脚本
 
 * 执行脚本进行编译并上传板子
 
